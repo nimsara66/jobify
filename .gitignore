@@ -1,0 +1,5 @@
+# vscoe config
+/.vscode
+
+/node_modules
+.env
